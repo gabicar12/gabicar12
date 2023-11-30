@@ -18,15 +18,9 @@
 <h2 align='center'>📊 My Github Stats</h2>
 
 <div align='center'>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabicar12&show_icons=true&theme=radical" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabicar12&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabicar12&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabicar12&layout=compact&theme=radical" />
 </div>
 <br/>
 
-<h2 align='center'>🐍 Contribution Snake</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gabicar12.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://gabicar12.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://gabicar12.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
