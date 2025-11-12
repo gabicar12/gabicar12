@@ -4,17 +4,14 @@
 
 <h1 align="center">Hi there, I'm Gabi 👋</h1>
 <p align='center'>
-  I hold a degree in Communication and a specialization in Graphic Design, and I carry years of experience in my pink suitcase. 🌸 <br>
-  My journey as a designer goes beyond creativity and aesthetics, it extends into the world of front-end development, where I’m continuously and passionately learning how to turn beautiful ideas into functional, user-friendly experiences. <br>
-  My goal is to bridge design and technology, transforming creative concepts into visually striking and technically solid projects. 🚀 <br>
-  ✨ Let’s build something amazing together!
+I hold a degree in Communication and a specialization in Graphic Design, and I carry years of experience in my pink suitcase. 🌸 My journey as a designer goes beyond creativity and aesthetics, it extends into the world of front-end development, where I’m continuously and passionately learning how to turn beautiful ideas into functional, user-friendly experiences. My goal is to bridge design and technology, transforming creative concepts into visually striking and technically solid projects. 🚀 Let’s build something amazing together!
 </p>
 <br>
 
 <h2 align='center'>💻 Languages & Tools</h2>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode,figma,ps,ai,ae,pr,wordpress,canva,notion" />
+   <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode,figma,ps,ai,ae,pr,wordpress,notion" />
 </p>
 <br>
 
